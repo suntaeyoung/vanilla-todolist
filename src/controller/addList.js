@@ -3,7 +3,6 @@ import { View } from '../view/view.js';
 import setupDragAndDrop from './drag.js';
 import deleteListClick from './deleteListClick.js';
 import { doubleClickList } from './doubleClickList.js';
-import darkMode from './darkMode.js';
 
 const model = Model();
 const view = View();
