@@ -13,4 +13,4 @@ Vanilla js로 구현한 Todo List 웹앱은 할 일을 관리하는 웹 애플�
 - 다크모드를 사용할 수 있습니다.
 
 ## 실행 주소
-Todo List 웹앱은 다음 주소에서 실행할 수 있습니다: [Todo List 웹앱 실행 주소](https://vanilla-todolist-sable.vercel.app)
+Todo List 웹앱은 다음 주소에서 실행할 수 있습니다: [Todo List 웹앱 실행 주소](https://ty-vanilla-todolist.netlify.app/)
